@@ -423,7 +423,6 @@ end
 
 local function openInterfaceOptions()
 	Settings.OpenToCategory(category.ID)
-	-- InterfaceOptionsFrame_OpenToCategory(CharacterAchievements.InterfacePanel)
 end
 
 CharacterAchievements.cout = cout;
