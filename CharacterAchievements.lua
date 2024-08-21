@@ -416,11 +416,14 @@ local function setupInterfaceOptions()
     CharacterAchievements.Interface.ConfigSubtitle:SetJustifyV("TOP");
     CharacterAchievements.Interface.ConfigSubtitle:SetText("Note: Workaround required for characters not in a guild.");
 	
-	InterfaceOptions_AddCategory(CharacterAchievements.InterfacePanel);
+	category, layout = Settings.RegisterCanvasLayoutCategory(CharacterAchievements.InterfacePanel, CharacterAchievements.InterfacePanel.name, CharacterAchievements.InterfacePanel.name);
+	category.ID = CharacterAchievements.InterfacePanel.name
+	Settings.RegisterAddOnCategory(category);
 end
 
 local function openInterfaceOptions()
-	InterfaceOptionsFrame_OpenToCategory(CharacterAchievements.InterfacePanel)
+	Settings.OpenToCategory(category.ID)
+	-- InterfaceOptionsFrame_OpenToCategory(CharacterAchievements.InterfacePanel)
 end
 
 CharacterAchievements.cout = cout;
