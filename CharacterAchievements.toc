@@ -1,0 +1,10 @@
+## Interface: 100000
+## X-Compatible-With: 100000
+## Title: Character Achievements
+## Version: 5.0
+## Author: Nasapunk88
+## Notes: Toggle Achievement display between highlighting Account-earned or Character Achievements
+## Dependencies: Blizzard_AchievementUI
+## SavedVariables: CharacterAchievementsDB
+
+CharacterAchievements.lua
