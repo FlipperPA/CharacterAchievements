@@ -1,20 +1,14 @@
 # Character Achievements
 
-Character Achievements is an addon that modifies the display of achievements in order to easily distinguish those earned by your current character and those earned by another character on your account. A check button is added to the Achievement Frame that allows for quick and easy switching between the styles and updates your achievement points accordingly.
+Character Achievements is an AddOn for World of Warcraft that modifies the display of achievements in order to easily distinguish those earned by your current character and those earned by another character on your account. A check button is added to the Achievement Frame that allows for quick and easy switching between the styles and updates your achievement points accordingly.
 
 ## Character Style
 
 The display is broken down into 3 parts:
 
-* Character Achievements - default display of completed achievements (red title background/border)
+* Character Achievements - default display of completed achievements (red title background / border)
 * Account earned Achievements - blue bordered display with slight coloration and lighting.
 * Not Completed Achievements - default display of incomplete achievement.
-
-## Account-earned Style
-
-The default display is used except:
-
-* account-earned achievements have a blue border instead of red.
 
 ## Note
 
