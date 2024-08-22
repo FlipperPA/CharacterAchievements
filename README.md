@@ -2,6 +2,8 @@
 
 Character Achievements is an AddOn for World of Warcraft that modifies the display of achievements in order to easily distinguish those earned by your current character and those earned by another character on your account. A check button is added to the Achievement Frame that allows for quick and easy switching between the styles and updates your achievement points accordingly.
 
+![image](https://github.com/user-attachments/assets/92f4c224-3a89-4942-89dc-df72f9a0152c)
+
 ## Character Style
 
 The display is broken down into 3 parts:
