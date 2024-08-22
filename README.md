@@ -18,12 +18,12 @@ The display is broken down into 3 parts:
 ## 
 Slash Commands
 
-* '/ca' or '/characterachievements'
-* '/ca options' or '/ca gui' brings up the options menu.
-* '/ca reset' resets to default settings and button position.
-* '/ca account' enables the display style for account-earned.
-* '/ca character' enables the display style for character.
-* '/ca unlock' unlocks the button for movement.
-* '/ca lock' locks the button.
-* '/ca hide' hides the button from the achievement frame.
-* '/ca show' shows the button on the achievement frame.
+* `/ca` or `/characterachievements`
+* `/ca options` or `/ca gui` brings up the options menu.
+* `/ca reset` resets to default settings and button position.
+* `/ca account` enables the display style for account-earned.
+* `/ca character` enables the display style for character.
+* `/ca unlock` unlocks the button for movement.
+* `/ca lock` locks the button.
+* `/ca hide` hides the button from the achievement frame.
+* `/ca show` shows the button on the achievement frame.
